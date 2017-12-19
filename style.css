@@ -1,0 +1,71 @@
+body, header, ul, li, a, form, main,
+ aside, footer, h1,h2,h3,h4 {
+	margin:0px;
+	padding: 0px;
+
+}
+body {
+	background-color: #C4BEBE;
+}
+img {
+	center 
+	width: 750px;
+
+}
+
+h1 {
+	text-align: center;
+	font-family: TimesNewRoman, "Times New Roman" Georgia, serif;
+	padding: 5px;
+	margin: 5px;
+	color: #01030D;
+}
+li {
+	display: inline-block;
+	padding: 8px;
+	margin: 2px;
+	background-color: #06FAD5
+}
+a {
+	text-decoration:none;
+	font-family: TimesNewRoman, Baskerville, Georgia, serif;
+	font-size: 20px;
+	text-align: center;
+	color: #101FAF
+}
+ul {
+	background-color:#fff;
+	text-align: right;
+	
+}
+form {
+	margin: 2px;
+	padding: 2px;
+	text-align: right;
+}
+main {
+	width: 700px;
+	position: relative;
+	left: 280px;
+	margin: 5px;
+	padding: 5px
+}
+aside {
+	width: 1000px;
+	margin: 5px;
+	padding: 5px;
+	position: relative;
+}	
+#pl {
+	display: inline-block;
+	background: red;
+	margin: 20px;
+	padding: 50px;
+	top: right
+	text top: right;
+}
+
+footer {
+  background-color: #DBE9EE;
+  text-align: center;
+}
